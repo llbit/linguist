@@ -1600,6 +1600,14 @@ Jasmin:
   - .j
   tm_scope: source.jasmin
 
+JastAdd:
+  type: programming
+  ace_mode: java
+  extensions:
+  - .jrag
+  - .jadd
+  tm_scope: source.java
+
 Java:
   type: programming
   ace_mode: java
